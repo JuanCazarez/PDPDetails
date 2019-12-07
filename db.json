@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "productId": "59761c23b30d971669fb42ff",
+      "price": 500.00,
+      "promoPrice":400.00,
+      "rate": 4.3,
+      "displayName": "Playera Aéropostale cuello redondo",
+      "bredcrumb":[
+        "Home",
+        "Aéropostale",
+        "Colecciones",
+        "Él",
+        "Playeras y Polos"
+      ],
+      "phone": "+1 (890) 543-2508",
+      "address": "169 Rutledge Street, Konterra, Northern Mariana Islands, 8551",
+      "colors":[
+        "black",
+        "white"
+      ],
+      "sizes":[
+        "XCH",
+        "CH",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images":[
+        "https://ss224.liverpool.com.mx/xl/1082504199.jpg",
+        "https://ss224.liverpool.com.mx/xl/1082504199_1p.jpg",
+        "https://ss224.liverpool.com.mx/xl/1082504199_2p.jpg",
+        "https://ss224.liverpool.com.mx/xl/1082504199_3p.jpg"
+      ]
+    }
+  ]
+}
